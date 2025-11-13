@@ -23,7 +23,7 @@ repository               : "andrea-mencaroni" # academicpages/academicpages.gith
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BE1061.jpeg"
   name             : "Andrea Mencaroni"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
