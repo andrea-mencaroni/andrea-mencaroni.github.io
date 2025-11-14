@@ -1,7 +1,8 @@
 ---
 title: "A novel hybrid assembly method to reduce operational costs of selective assembly"
 collection: publications
-permalink: /publications/2023-01-01-hybrid-assembly.md/
+category: manuscripts
+permalink: /publications/2023-01-01-hybrid-assembly
 date: 2023-01-01
 venue: "International Journal of Production Economics"
 authors: "Andrea Mencaroni, Dieter Claeys, Stijn De Vuyst"
